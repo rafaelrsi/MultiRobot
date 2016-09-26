@@ -1,4 +1,4 @@
-  all: program
+  all: server
 
   CFLAGS=-fPIC -g -Wall
   ARIA_INCLUDE=-I/usr/local/Aria/include
